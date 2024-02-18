@@ -1,3 +1,3 @@
-# Lab Exercises #1 (Back-end/API)
+# Lab Exercises
 # JIMENEZ
 # ITD103 - IT3D
